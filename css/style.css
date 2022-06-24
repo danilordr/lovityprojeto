@@ -8,10 +8,26 @@ body {
 }
 
 header {
+  display: flex;
   padding: 16px 45px;
   border-bottom: .5px solid #8888888e;
+  
 }
+.lovt1{
+  display: flex;
+  
 
+}
+.lovt2{
+  display: flex;
+  padding-left: 2%;
+
+}
+.lovt3{
+  display: flex;
+  padding-left: 78%;
+
+}
 main {
   padding: 16px 45px;
 }
